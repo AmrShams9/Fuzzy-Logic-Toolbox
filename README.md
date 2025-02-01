@@ -15,15 +15,15 @@ The **Fuzzy Logic Toolbox** is a Java-based tool for designing, implementing, an
 ![Main Menu](./MainMenu.PNG)
 
 ### GUI Menu
-![GUI Menu](./GUI menu.PNG)
-
-### Fuzzy Logic Output
-![Fuzzy Output](./output Fuzzy.PNG)
+![GUI menu](https://github.com/user-attachments/assets/e468b142-f0f7-4bf0-bc7f-e877ee5cd508)
 
 ### Fuzzification Metod
 ![Fuzzy Dirt](./![Dirt Fuzzification](https://github.com/user-attachments/assets/7977063e-e918-4dc3-ba55-d850b42c7787)
 )
 ![Fabric Fuzzification](https://github.com/user-attachments/assets/469df71c-4bbe-44b7-b08e-b6a17b8e8f54)
+
+### Fuzzy Logic Output
+![output Fuzzy](https://github.com/user-attachments/assets/2dbc7d15-f7d7-427a-9ff3-c0032bab9bae)
 
 
 ## Installation
