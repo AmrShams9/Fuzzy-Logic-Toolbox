@@ -1,0 +1,7 @@
+Running the simulation...
+Fuzzification => done
+Inference => done
+Defuzzification => done
+The predicted risk is normal (37.5)
+The predicted Wash_time is small (18.75)
+

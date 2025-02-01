@@ -1,0 +1,10 @@
+Main Menu:
+==========
+1- Add variables.
+2- Add fuzzy sets to an existing variable.
+3- Add rules.
+4- Run the simulation on crisp values.
+Welcome to Fuzzy Logic Toolbox with Console Version
+===================
+1- Create a new fuzzy system
+2- Quit
