@@ -12,13 +12,13 @@ The **Fuzzy Logic Toolbox** is a Java-based tool for designing, implementing, an
 
 ## Screenshots
 ### Main Menu
-![Main Menu](./images/MainMenu.PNG)
+![Main Menu](./MainMenu.PNG)
 
 ### GUI Menu
-![GUI Menu](./images/GUI_menu.PNG)
+![GUI Menu](./GUI_menu.PNG)
 
 ### Fuzzy Logic Output
-![Fuzzy Output](./images/output_Fuzzy.PNG)
+![Fuzzy Output](./output_Fuzzy.PNG)
 
 ## Installation
 1. Ensure you have **Java 8 or later** installed on your system.
